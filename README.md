@@ -13,3 +13,7 @@
 - Отметка задачи как выполненной
 - Фильтрация по статусу: все, активные, завершённые
 - Сохранение в LocalStorage 
+
+## Скриншот 
+<img width="1919" height="949" alt="image" src="https://github.com/user-attachments/assets/f304c4de-3f3b-4be3-a080-c737bfcefca8" />
+
